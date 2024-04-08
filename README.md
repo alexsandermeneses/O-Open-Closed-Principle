@@ -1,2 +1,2 @@
-O-Open/ClosedPrinciple
-Open to extends and closed to modifications
+O-Open/Closed Principle
+- Open to extends and closed to modifications
