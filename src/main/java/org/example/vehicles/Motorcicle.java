@@ -32,6 +32,6 @@ public class Motorcicle implements IVehicleCar{
 
     @Override
     public void startVehicle() {
-
+        System.out.println("Starting");
     }
 }

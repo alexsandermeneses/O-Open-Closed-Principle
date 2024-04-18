@@ -9,5 +9,4 @@ public class Vehicle {
     public void startVehicle(){
         System.out.println("Starting the engine...");
     }
-
 }
