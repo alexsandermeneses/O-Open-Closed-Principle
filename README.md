@@ -1,2 +1,2 @@
 O - Open/Closed Principle
-- Open to extends and closed to modifications
+This Principle shows that objects or entities must be open for extension, but closed for modification.
